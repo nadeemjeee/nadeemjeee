@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Nadeem Ahmad 👋
 
-<!--
-**nadeemjeee/nadeemjeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineering Student
 
-Here are some ideas to get you started:
+DevOps Engineering student at JENSEN Yrkeshögskola. Developing programming and automation skills in Python, Java, and Bash through coursework and practical projects.
+Previous experience in transportation, hospitality, and client management has built strong skills in operations, problem-solving, communication, and working under pressure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a continuous learning mindset.
+
+I am learning and working with:
+
+- Git & GitHub
+- Docker
+- CI/CD
+- Linux
+- Python
+- Java
+- SQL databases
+- Agile development
+
+## Current Focus
+
+- Building DevOps projects
+- Practicing GitHub workflows
+- Learning automation and deployment
+- Preparing for LIA/internship
+
+## Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![Linux](https://img.shields.io/badge/Linux-grey)
+
+## Connect with me
+
+- GitHub: [@nadeemjeee](https://github.com/nadeemjeee)
+- LinkedIn: www.linkedin.com/in/nadeem-ahmad2026
