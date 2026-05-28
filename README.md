@@ -1,6 +1,9 @@
 <div align="center">
 
-## 🚀 DevOps Engineering Student
+##  DevOps Engineering Student
+DevOps Engineering student at JENSEN Yrkeshögskola.  
+Previous experience in transportation, hospitality, and client management has built strong skills in operations, problem-solving, communication, and working under pressure.
+Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a continuous learning mindset.
 
 💻 Learning DevOps, Cloud, CI/CD & Automation
 🐳 Docker • Linux • GitHub • Python • Java
@@ -32,11 +35,7 @@
 
 ## 📚 Currently Learning
 
-* CI/CD Pipelines
-* Docker & Containers
-* Linux Administration
-* GitHub Workflows
-* Python Automation
+* CI/CD Pipelines * Docker & Containers * Linux Administration * GitHub Workflows * Python Automation
 
 ---
 
