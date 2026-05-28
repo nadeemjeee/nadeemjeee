@@ -17,9 +17,7 @@ Linux | Docker | Git | Python | Java | Bash
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nadeemjeee@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad2026)
-
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nadeemjeee)
 
 </div>
