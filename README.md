@@ -1,29 +1,11 @@
-# Hi, I'm Nadeem Ahmad 👋
-
 ## DevOps Engineering Student
 
 DevOps Engineering student at JENSEN Yrkeshögskola. Developing programming and automation skills in Python, Java, and Bash through coursework and practical projects.
-Previous experience in transportation, hospitality, and client management has built strong skills in operations, problem-solving, communication, and working under pressure.
-
 Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a continuous learning mindset.
-
-I am learning and working with:
-
-- Git & GitHub
-- Docker
-- CI/CD
-- Linux
-- Python
-- Java
-- SQL databases
-- Agile development
+I am learning and working with: - Git & GitHub - Docker - CI/CD - Linux - Python - Java - SQL databases - Agile development
 
 ## Current Focus
-
-- Building DevOps projects
-- Practicing GitHub workflows
-- Learning automation and deployment
-- Preparing for LIA/internship
+- Building DevOps projects - Practicing GitHub workflows - Learning automation and deployment - Preparing for LIA/internship
 
 ## Tools & Technologies
 
