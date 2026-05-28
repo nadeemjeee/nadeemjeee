@@ -1,26 +1,20 @@
-<div align="center">
+<div style="border:1px solid #d0d7de; border-radius:12px; padding:30px;">
 
-##  DevOps Engineering Student
-DevOps Engineering student at JENSEN Yrkeshögskola.  
-Previous experience in transportation, hospitality, and client management has built strong skills in operations, problem-solving, communication, and working under pressure.
-Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a continuous learning mindset.
+# DevOps Engineering Student
 
-💻 Learning DevOps, Cloud, CI/CD & Automation
-🐳 Docker • Linux • GitHub • Python • Java
+DevOps Engineering student at JENSEN Yrkeshögskola.
+
+Previous experience in transportation, hospitality, and client management has built strong skills in operations, problem-solving, communication, and working under pressure. Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a continuous learning mindset.
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nadeemjeee@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad2026)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nadeemjeee)
-
-</div>
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nadeemjeee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad2026)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nadeemjeee)
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+# 🛠️ Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
@@ -31,20 +25,3 @@ Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a cont
 
 </div>
 
----
-
-## 📚 Currently Learning
-
-* CI/CD Pipelines * Docker & Containers * Linux Administration * GitHub Workflows * Python Automation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nadeemjeee&show_icons=true&theme=default&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemjeee&layout=compact&theme=default&hide_border=true" />
-
-</div>
