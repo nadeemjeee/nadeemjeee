@@ -43,17 +43,8 @@ Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a cont
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nadeemjeee&show_icons=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nadeemjeee&show_icons=true&theme=default&hide_border=true" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemjeee&layout=compact" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Always learning and building new things.
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemjeee&layout=compact&theme=default&hide_border=true" />
 
 </div>
-
