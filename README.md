@@ -6,13 +6,6 @@ DevOps Engineering student at JENSEN Yrkeshögskola.
 
 Previous experience in transportation, hospitality, and client management has built strong skills in operations, problem-solving, communication, and working under pressure. Fluent in Swedish, English, Urdu and Punjabi with strong adaptability and a continuous learning mindset.
 
----
-
-## 🛠️ Tech Stack
-
-Linux | Docker | Git | Python | Java | Bash
-
----
 
 <div align="center">
 
